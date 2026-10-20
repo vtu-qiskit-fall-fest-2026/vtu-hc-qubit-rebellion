@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Qubit Rebellion** · Team ID `VTU-QFF-HC-0061` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Qubit Rebellion)
+[⬆ Back to Top](#qubit-rebellion)
 
 </div>
